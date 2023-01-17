@@ -1,0 +1,1 @@
+LexyHound 0.3.0 is a Python script that automates natural language processing for content analysis. The script is still in development. Sometime in Q2 2023 I plan to add an user interface to run the script.
