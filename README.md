@@ -1,1 +1,5 @@
-LexyHound 0.3.0 is a Python script that automates natural language processing for content analysis. The script is still in development. I plan to add an user interface around Q2 of 2023.
+# Lexihound - Archived
+
+This repository is no longer maintained or updated. Please visit the new repository, [CtrlFindr](https://github.com/CeMSc/CtrlFindr), for the latest updates and continued support.
+
+
